@@ -4,7 +4,7 @@
 
 ## 提示框
 
-- 使用
+- 代码
 
 ```javascript
 function test() {
@@ -23,7 +23,7 @@ Utils.sync(0,["这是一个提示"], test)
 
 ## 验证框
 
-- 使用
+- 代码
 
 ```javascript
 function test(bool) {
@@ -42,7 +42,7 @@ Utils.sync(1,["这是一条验证信息"], test)
 
 ## 输入框 (input)
 
-- 使用
+- 代码
 
 ```javascript
 function test(input) {
@@ -61,7 +61,7 @@ Utils.sync(2,["请输入你的内容"], test)
 
 ## 输入框 (textarea)
 
-- 使用
+- 代码
 
 ```javascript
 function test(input) {

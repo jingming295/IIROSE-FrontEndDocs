@@ -4,3 +4,4 @@
 * Utils (工具类)
 
   * [弹出框](Utils/sync.md)
+  * [上传文件](Utils/uploadImg.md)
