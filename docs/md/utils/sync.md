@@ -1,11 +1,6 @@
-# 弹出框
+# Utils.sync(e, t, o)
 
 > 弹出框
-
-## 函数
-```javascript
-Utils.sync(e, t, o)
-```
 
 ```e```: 类型。0是提示框，1是验证框，2是input的输入框，3是textarea的输入框
 

@@ -1,14 +1,13 @@
-# 上传文件
+# Utils.uploadImg()
 
-## 上传
-
-### 函数
 ```javascript
 Utils.uploadImg(e, t)
 ```
 
 ```e```: 文件对象
 ```t```: 回调函数，接收一个xhr对象
+
+### 上传
 
 - 使用例子
 

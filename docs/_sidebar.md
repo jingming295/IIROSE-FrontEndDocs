@@ -6,7 +6,7 @@
 
 * Utils (工具类?)
 
-  * [弹出框](md/utils/sync.md)
-  * [AppUtils](md/utils/AppUtils.md)
-  * [上传文件](md/utils/uploadImg.md)
+  * [Utils.sync](md/utils/sync.md)
+  * [Utils.AppUtils](md/utils/AppUtils.md)
+  * [Utils.uploadImg](md/utils/uploadImg.md)
 
