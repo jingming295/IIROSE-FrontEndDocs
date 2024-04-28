@@ -11,4 +11,6 @@
   * [Utils.uploadImg](md/utils/uploadImg.md)
   * [Utils.LRUD](md/utils/LRUD.md)
   * [Utils.Resource](md/utils/Resource.md)
+  * [Utils.Sound](md/utils/Sound.md)
+  * [Utils.Style](md/utils/Style.md)
 

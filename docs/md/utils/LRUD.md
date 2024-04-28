@@ -27,6 +27,6 @@ Utils.LRUD(fakeEvent);
 
 - 效果：
 
-![小聊天框](http://r.iirose.com/i/24/4/28/21/3659-K2.png)
+![小聊天框](https://static.codemao.cn/i/24/4/28/21/3659-K2.png)
 
 ---
