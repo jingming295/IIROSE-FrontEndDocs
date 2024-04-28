@@ -9,4 +9,6 @@
   * [Utils.sync](md/utils/sync.md)
   * [Utils.AppUtils](md/utils/AppUtils.md)
   * [Utils.uploadImg](md/utils/uploadImg.md)
+  * [Utils.LRUD](md/utils/LRUD.md)
+  * [Utils.Resource](md/utils/Resource.md)
 

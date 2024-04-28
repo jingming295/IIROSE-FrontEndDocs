@@ -1,6 +1,6 @@
 # AppUtils
 
-## Utils.AppUtils.getShareData()
+## Utils.AppUtils.getShareData
 
 > 解析文本
 
@@ -29,7 +29,7 @@ Utils.AppUtils.getShareData()
 
 ---
 
-## Utils.AppUtils.menu()
+## Utils.AppUtils.menu
 
 > 处理图片
 
@@ -54,7 +54,7 @@ Utils.AppUtils.menu('1_0_','http://r.iirose.com/i/21/10/19/20/1347-OZ.jpg#e')
 
 ---
 
-## Utils.AppUtils.setCoreType()
+## Utils.AppUtils.setCoreType
 
 > 还没有完全搞清楚这是干什么的。貌似是备份数据，储存到localstorage，他好像是应该在保存成功后重启蔷薇花园
 
