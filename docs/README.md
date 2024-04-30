@@ -10,6 +10,10 @@
 
 你应该在mainFrame (messages.html) 层使用这些代码
 
+## 启动本文档
+
+```docsify serve docs```
+
 ## 贡献人员名单
 
 [小草](https://github.com/XCWQW1)

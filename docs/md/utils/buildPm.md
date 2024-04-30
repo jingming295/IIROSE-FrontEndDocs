@@ -36,7 +36,7 @@ Utils.buildPm(e,t,o,i,a)
 var e = "625874e344db0"; // 用户的唯一标识
 var t = ['http://r.iirose.com/i/23/1/16/19/5713-GK.jpg#e', 'ffffa7', '用户名', '4', 'http://r.iirose.com/i/24/1/18/11/3943-HK.png']; // t数组包含了私信消息构建所需的参数
 var o = 1 // 对应privateMsgFunc的r
-var i = 1 // 对应privateMsgFunc的l
+var i = 1 // 对应privateMsgFunc的l，为真不是`*`的时候就是帮对方开匿名
 var a = undefined; // 对应privateMsgFunc的n
 
 // 调用 buildPm 函数

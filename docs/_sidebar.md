@@ -23,7 +23,8 @@
   * [Utils.backward](md/utils/backward.md)
   * [Utils.bgMove](md/utils/bgMove.md)
   * [Utils.blobToDataURL](md/utils/blobToDataURL.md)
-  * [Utils.buildPm (还没逆向)](md/utils/buildPm.md)
+  * [Utils.buildPm](md/utils/buildPm.md)
+  * [Utils.buildSelect](md/utils/buildSelect.md)
   * 
   * [Utils.sync](md/utils/sync.md)
   * [Utils.uploadImg](md/utils/uploadImg.md)
