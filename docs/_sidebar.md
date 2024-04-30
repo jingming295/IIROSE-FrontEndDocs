@@ -25,6 +25,7 @@
   * [Utils.blobToDataURL](md/utils/blobToDataURL.md)
   * [Utils.buildPm](md/utils/buildPm.md)
   * [Utils.buildSelect](md/utils/buildSelect.md)
+  * [Utils.buildSelect2](md/utils/buildSelect2.md)
   * 
   * [Utils.sync](md/utils/sync.md)
   * [Utils.uploadImg](md/utils/uploadImg.md)
