@@ -2,7 +2,7 @@
 
 ## Utils.buildSelect(i,a,s,r,e,t,o,l,n)
 
-> 创建选择框（第一种）
+> 创建选择框（第一种方法）
 
 ```javascript
 Utils.buildSelect(i,a,s,r,e,t,o,l,n)
@@ -27,7 +27,7 @@ Utils.buildSelect(i,a,s,r,e,t,o,l,n)
 ```n```: 是否允许选择空值（未经验证）
 
 
-### 创建选择框（第一种）
+### 创建选择框（第一种方法）
 
 - 使用例子
 

@@ -26,6 +26,8 @@
   * [Utils.buildPm](md/utils/buildPm.md)
   * [Utils.buildSelect](md/utils/buildSelect.md)
   * [Utils.buildSelect2](md/utils/buildSelect2.md)
+  * [Utils.comDemandPic](md/utils/comDemandPic.md)
+  * [Utils.compareScroll](md/utils/compareScroll.md)
   * 
   * [Utils.sync](md/utils/sync.md)
   * [Utils.uploadImg](md/utils/uploadImg.md)

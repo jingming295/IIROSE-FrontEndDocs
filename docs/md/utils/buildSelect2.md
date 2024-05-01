@@ -2,7 +2,7 @@
 
 ## Utils.buildSelect2(i,a,s,e,t,o,r,l,n)
 
-> 创建选择框（第一种）
+> 创建选择框（第二种方法）
 
 ```javascript
 Utils.buildSelect2(i,a,s,e,t,o,r,l,n)
@@ -27,7 +27,7 @@ Utils.buildSelect2(i,a,s,e,t,o,r,l,n)
 ```n```: 返回（点击空白处）的回调函数
 
 
-### 创建选择框（第一种）
+### 创建选择框（第二种方法）
 
 - 使用例子
 
