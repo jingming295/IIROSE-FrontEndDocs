@@ -5,7 +5,7 @@
 > 判断一个元素是否已经滚动到了其内容的底部（我不确定是不是这样）
 
 ```javascript
-Utils.compareScroll(e,t,o,i)
+Utils.compareScroll(e,t)
 ```
 
 ```e```: Html元素

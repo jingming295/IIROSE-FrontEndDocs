@@ -28,6 +28,13 @@
   * [Utils.buildSelect2](md/utils/buildSelect2.md)
   * [Utils.comDemandPic](md/utils/comDemandPic.md)
   * [Utils.compareScroll](md/utils/compareScroll.md)
+  * [Utils.copyData](md/utils/copyData.md)
+  * [Utils.createJsPlayer (逆向未完成)](md/utils/createJsPlayer.md)
+  * [Utils.danmakuMode](md/utils/danmakuMode.md)
+  * [Utils.dataURLtoBlob](md/utils/dataURLtoBlob.md)
+  * [Utils.database](md/utils/database.md)
+  * [Utils.deepCopy](md/utils/deepCopy.md)
+  * [Utils.demandGetDef](md/utils/demandGetDef.md)
   * 
   * [Utils.sync](md/utils/sync.md)
   * [Utils.uploadImg](md/utils/uploadImg.md)
