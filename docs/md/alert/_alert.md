@@ -3,7 +3,7 @@
 > 弹出消息
 
 ```javascript
-_alert(e, t, o, i, a) 
+_alert(e,t,o,i,a) 
 ```
 
 ```e```: 需要被显示的消息。

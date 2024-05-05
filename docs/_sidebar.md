@@ -4,6 +4,9 @@
 * 弹出消息
   * [_alert](md/alert/_alert.md)
 
+* 显示图片
+  * [showImg](md/showImg/showImg.md)
+
 * Utils (工具类?)
 
   * [Utils.AI](md/utils/AI.md)
