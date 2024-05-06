@@ -39,6 +39,7 @@
   * [Utils.deepCopy](md/utils/deepCopy.md)
   * [Utils.demandGetDef](md/utils/demandGetDef.md)
   * 
+  * [Utils.imgReady](md/utils/imgReady.md)
   * [Utils.sync](md/utils/sync.md)
   * [Utils.uploadImg](md/utils/uploadImg.md)
 

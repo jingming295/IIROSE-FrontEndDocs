@@ -1,6 +1,6 @@
 # AppUtils
 
-## Utils.AppUtils.getShareData
+## Utils.AppUtils.getShareData()
 
 > 解析文本
 
